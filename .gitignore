@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Base de datos local 
+
+
+# Configuración del editor
+.vscode/
+.idea/
