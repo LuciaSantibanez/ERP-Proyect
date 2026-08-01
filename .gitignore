@@ -8,7 +8,7 @@ __pycache__/
 *.py[cod]
 
 # Base de datos local 
-
+db.sqlite3
 
 # Configuración del editor
 .vscode/

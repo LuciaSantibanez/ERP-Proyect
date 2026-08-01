@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'users'
 ]
 
-AUTH_USER_MODEL = 'user.User'
+AUTH_USER_MODEL = 'users.User'
 
 LOGIN_URL = '/users/login'
 LOGIN_REDIRECT_URL = '/users/dashboard'
